@@ -1,2 +1,2 @@
 # Wordle-Game
-Wordle Game using Prolog
+Wordle Game using Prolog (Logical Programming Paradigm)
